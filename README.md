@@ -27,7 +27,7 @@ This repository serves as a personal study guide, helping organize study materia
 
 1. **Clone**: To download the repository locally, run:
    ```bash
-   git clone https://github.com/your-username/repository-name.git
+   git clone https://github.com/PHScapin/Artificial-Intelligence.git
    ```
 2. **Install Dependencies**: Check the `requirements.txt` file (if available) to install the necessary packages:
    ```bash
